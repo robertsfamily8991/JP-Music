@@ -73,7 +73,7 @@ a {
 }
 
 /* Media Setting */
-@media (max-width: 1028px) {
+@media (max-width: 500px) {
 
   .nav-logo {
     margin: auto;
