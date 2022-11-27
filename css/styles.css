@@ -1,9 +1,10 @@
 body {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
-  background-image: url('../images/jordan-pitts-jpmusic-background.jpg');
+  /* background-image: url('../images/jordan-pitts-jpmusic-background.jpg'); */
+  background-image: url('../images/jordan-pitts-jpmusic-background2.jpg');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top left;
 
 }
 
@@ -76,12 +77,9 @@ a {
 @media (max-width: 800px) {
 
   body {
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
     background-image: url('../images/jordan-pitts-jpmusic-background.jpg');
     background-repeat: no-repeat;
-    background-position: top center;
-
+    background-position: center;
   }
 
   .nav-logo {
