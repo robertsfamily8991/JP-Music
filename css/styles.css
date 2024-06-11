@@ -27,6 +27,7 @@ body {
 /* Navbar */
 .nav-menu {
   padding: 5px 15%;
+  background-image: url(https://www.sandpointsmallengine.com/images/subtle-grunge.png);
 }
 
 .center-menu {
@@ -36,6 +37,7 @@ body {
 /* Colored Sections */
 .colored-section {
   background-color: #f8f9fa;
+  background-image: url(https://www.sandpointsmallengine.com/images/subtle-grunge.png);
   color: #fff;
 }
 
