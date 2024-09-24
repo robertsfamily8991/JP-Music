@@ -1,2 +1,2 @@
 # Sandpoint Small Engine LLC
-Tune-Ups | Maintenance | Minor Repair
+ Small Engine Repair | Tune-Up | Maintenance | Minor Repair 
